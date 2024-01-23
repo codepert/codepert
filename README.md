@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Screenshot 2024-01-24 061447](https://github.com/tranguixdev/tranguixdev/assets/150120338/f5c06b06-d175-4b1b-83dc-cefad243bbaf)
+
+![Screenshot 2024-01-24 062755](https://github.com/tranguixdev/tranguixdev/assets/150120338/5da868c3-e12e-448b-8325-c2b0ad0d30c1)
