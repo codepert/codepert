@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Screenshot 2024-01-24 062755](https://github.com/tranguixdev/tranguixdev/assets/150120338/5da868c3-e12e-448b-8325-c2b0ad0d30c1)
