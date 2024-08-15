@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm not just your average Full Stack Developer; I'm your go-to tech maestro!
 
-🎨 On the front end, I craft magic with VueJS, ReactJS, NextJS, AngularJs, Svelte, Three.js, TailwindCSS, and Framer-motion.
+🎨 On the front end, I craft magic with ReactJS, NextJS, VueJS, AngularJs, Svelte, Three.js, TailwindCSS, and Framer-motion.
    On the back end, I have skilled experience with Laravel, Ruby on rails, Django.
    And also I have experience in blockchain technogoly such as smart contract, web3 integration using Solidity, Rust, Cairo and Web3.
 
