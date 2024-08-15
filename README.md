@@ -2,7 +2,7 @@
 
 🎨 On the front end, I craft magic with VueJS, ReactJS, NextJS, AngularJs, Svelte, Three.js, TailwindCSS, and Framer-motion.
    On the back end, I have skilled experience with Laravel, Ruby on rails, Django.
-   And also I have experience in blockchain technogoly such as smart contract, web3 integration.
+   And also I have experience in blockchain technogoly such as smart contract, web3 integration using Solidity, Rust, Cairo and Web3.
 
 💾 I'm no stranger to databases; I've danced with MySQL, PostgreSQL, and MongoDB.
 
